@@ -1,16 +1,16 @@
 # Bank-Marketing-Prediction
 
-#### Context:
+## Context:
 
 ##### Bank Marketing
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
 
 
 
-#### Content: 
+## Content: 
 
 
-##### Bank Client Data:
+### Bank Client Data:
 
 1 - age (numeric)
 
@@ -53,7 +53,7 @@ output variable (desired target):
 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
 
-##### Aim: 
+## Aim: 
 
 This Dataset is contains of information about the customers whom having account in a client's bank. For Targetting a new product we segregate our customers based on their current subscription. 
 
@@ -61,7 +61,7 @@ From the Information about the Current Subscription who are all the target custo
 
 
 
-##### Solution: 
+## Solution: 
 
 To Solve this Problem I'll use a colaborative apporach of Classification.
 
@@ -69,7 +69,7 @@ Here I thought of Using Clustering Based Classification, whereas Clustering is a
 
 
 
-##### Working Procedure:
+## Working Procedure:
 
 * Classifiying Data, Once I get accurate Classification of Data.
 
